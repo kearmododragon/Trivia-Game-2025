@@ -7,7 +7,7 @@ Based on Bamboozle (teletext)
 very basic 8-bit art style of a question master asking you multiple choice (4) questions. 
 
 12 questions total for a round. When you get a question wrong you're out
-
+4th option should generally be a joke answer
 Screen displayed depending on what your score is
 0-2 You suck
 3-5 You're bad
