@@ -1,11 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <script src="Script/script.js" defer></script>
+    <link rel="stylesheet" href="CSS/style.css" />
+    <title>Trivia</title>
 </head>
+
 <body>
-    
+    <div id="start-screen">
+        <h1>Welcome to the quiz</h1>
+        <h2 id="start-message">Hello and welcome to the quiz. Let's go get quizzing</h2>
+        <button id="start-btn">Start</button>
+    </div>
+    <div id="question-screen">
+        <div id="question">
+            <h1>This is where the question goes</h1>
+        </div>
+        <div id="answers">
+            <button id="ans-0">A</button>
+            <button id="ans-1">B</button>
+            <button id="ans-2">C</button>
+            <button id="ans-3">D</button>
+        </div>
+        <h3 id="counter">1/10</h3>
+    </div>
+    <div id="end-screen">
+        <h1 id="game-over">Game Over</h1>
+        <h2 id="end-message">You lost </h2>
+        <h3 id="score">10/10</h3>
+        <button id="reset-btn">Reset Game</button>
+    </div>
 </body>
+
 </html>

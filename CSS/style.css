@@ -1,0 +1,12 @@
+#start-screen {
+    color: blueviolet;
+}
+
+#question-screen {
+    color: blue;
+    visibility: hidden;
+}
+
+#end-screen {
+    visibility: hidden;
+}
