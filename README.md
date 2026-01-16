@@ -2,7 +2,33 @@
 
 Project #2 - Trivia Game. 
 
-Based on Bamboozle (teletext)
+Function: 
+Basic: 
+Have Multiple, multiple choice questions.
+Tell the user whether they are right or wrong
+give a score at the end.
+
+Ice: 
+Categories for questions
+Shuffle the location of the answers (a/b/c/d) 
+include numerical questions with % safety net
+increase the difficulty. 
+Timer
+game modes (60 seconds for whole quiz, fully random, user chooses catergories)
+
+
+look/feel 
+Basic: 
+Box with answer, 4 boxes with answers 
+
+Ice: 
+"Bamboozle" style
+"Quiz" style music, postentially getting more "tense" for later rounds. 
+sounds for hovering over the answers 
+animations for the buttons/answers etc
+Final message showing you how well you've done and giving you a rating
+themed backgrounds related to the question
+
 
 very basic 8-bit art style of a question master asking you multiple choice (4) questions. 
 
@@ -16,16 +42,6 @@ Screen displayed depending on what your score is
 10-11 Well done
 12 smashed it. 
 
-
-Ice box 
-- Multiple sets of questions
-- improve on the design while still keeping the theme
-- Background music 
-- Increasing difficulty of questions 
-- sound effects for right/wrong answer
-- timer
-- themed backgrounds depending on day of the year 
-- themed message depending on questions 
 
 ![alt text](image.png)
 ![alt text](image.png)
